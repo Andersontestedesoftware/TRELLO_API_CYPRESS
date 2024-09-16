@@ -1,4 +1,4 @@
-Crie um arquivo cypress.env.json com:
+Crie um arquivo cypress.env.json de fora da pasta cypress com:
 {
   "trelloKey": "coloca a KEY da API aqui",
   "trelloToken": "coloca o TOKEN da API aqui"
