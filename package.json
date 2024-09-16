@@ -1,0 +1,19 @@
+{
+  "name": "entrevista",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.13.0",
+    "cypress-plugin-api": "^2.11.2"
+  },
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.2"
+  },
+  "description": ""
+}
